@@ -1,7 +1,7 @@
 {
   "name": "@sosuisen/nodegit",
   "description": "Node.js libgit2 asynchronous native bindings",
-  "version": "0.27.2",
+  "version": "0.27.3",
   "homepage": "http://nodegit.org",
   "keywords": [
     "libgit2",
@@ -28,7 +28,7 @@
   "main": "dist/nodegit.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nodegit/nodegit.git"
+    "url": "git://github.com/sosuisen/nodegit.git"
   },
   "directories": {
     "build": "./build",
